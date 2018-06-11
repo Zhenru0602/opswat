@@ -10,7 +10,7 @@ var uploadEvent = new EventEmitter();
 var pullEvent = new EventEmitter();
 
 var file = process.argv[2];
-var key = "cda3a3b8e4fb782b7933351536e231a8"; //please use your api key to replace inside the quotes
+var key = "key goes in here"; //please use your api key to replace inside the quotes
 
 if(!file){
 	console.log("Please enter your file name!");
