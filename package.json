@@ -1,0 +1,17 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "opswat project",
+  "main": "opswat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opswat"
+  ],
+  "author": "Zhenru Huang",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
